@@ -6,5 +6,6 @@
 
 # Run
 
-1. Run `vagrant up`.
+1. Run `vagrant up` (**Warning:** `precise64` vagrant box will be downloaded
+   if doesn't exist!).
 2. Open `http://127.0.0.1:8080`.
